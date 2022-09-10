@@ -1,0 +1,38 @@
+
+#get-course {
+    background-color: aliceblue;
+    margin-top: 10%;
+    padding: 20px;
+   /*  box-shadow: 0.3rem 0.3rem 0.6rem #c8d0e7 , -0.2rem -0.2rem 0.5rem #FFFFFF; */
+    
+}
+
+#Fetch-button {
+  
+    box-shadow: 0.3rem 0.3rem 0.6rem #c8d0e7 , -0.2rem -0.2rem 0.5rem #FFFFFF;
+    text-align: center;
+   
+}
+h1{
+  color: aliceblue;
+  text-shadow: 0.3rem 0.3rem 0.6rem green , -0.2rem -0.2rem 0.5rem white;
+}
+p{
+  color: rgb(137, 197, 250);
+  text-shadow: 0.3rem 0.3rem 0.6rem green , -0.2rem -0.2rem 0.5rem white;
+}
+.btn{
+  display: flex;
+  cursor: pointer;
+  justify-self: center;
+  justify-content: center;
+  width: 10rem;
+  height: 3rem;
+  margin: 20px auto;
+  padding-top: auto; 
+  }
+  #course-info-container{
+    border:5px solid aliceblue;
+    box-shadow: 0.3rem 0.3rem 0.6rem green , -0.2rem -0.2rem 0.5rem #2e2c2c;
+  }
+  
